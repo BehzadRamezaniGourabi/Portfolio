@@ -1,4 +1,5 @@
 # Behzad Ramezani Portfolio Website
+![Behzad's Photo](portfolioScreenshoot.png)
 
 This is the portfolio website of Behzad Ramezani, a Computer Science graduate and Web Developer. The website showcases personal qualifications, skills, projects, experience, and contact information. It also includes a contact form that allows visitors to send messages, which are stored in a MySQL database.
 
