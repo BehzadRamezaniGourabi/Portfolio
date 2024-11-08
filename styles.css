@@ -1,0 +1,171 @@
+/* Global Reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #f4f4f4;
+    background-color: #1e1e1e;
+    display: flex;
+  }
+  
+  /* Hero Section as a Fixed Card */
+  #hero {
+    background-color: #333;
+    color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+    width: 300px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  #hero h1 {
+    font-size: 2rem;
+  }
+  
+  #hero p {
+    margin-top: 10px;
+    font-size: 1.2rem;
+  }
+  
+  #hero .button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: #1e1e1e;
+    background-color: #f57328;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  #hero .button:hover {
+    background-color: #f57328;
+    color: #f4f4f4;
+  }
+  
+  /* Profile Picture */
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  /* Social Icons Styling */
+  .social-icons {
+    margin-top: 20px;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+  }
+  
+  .social-icon {
+    color: #f4f4f4; /* Icon color */
+    font-size: 1.5rem; /* Adjust size as needed */
+    transition: color 0.3s;
+  }
+  
+  .social-icon:hover {
+    color: #f57328; /* Hover color */
+  }
+  
+
+  /* Main Content */
+  main {
+    margin-left: 320px;
+    padding: 50px 20px;
+    max-width: 800px;
+  }
+  
+  /* Section Styling */
+  section {
+    margin-bottom: 50px;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #f4f4f4;
+  }
+  
+  /* Skills, Projects, and Experience Sections */
+  .skills-container,
+  .projects-container,
+  .experience-container,
+  .study-container {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+  }
+  
+  .skill, .project, .experience, .study {
+    flex: 1 1 30%;
+    background: #333;
+    color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .skill h3, .project h3, .experience h3, .study h3 {
+    color: #f57328;
+  }
+  
+  /* Contact Form */
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  input, textarea, button {
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #333;
+    color: #f4f4f4;
+  }
+  
+  button {
+    background-color: #f57328;
+    color: #1e1e1e;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #f57328;
+    color: #f4f4f4;
+  }
+
+  /*Message Box*/
+  #response-message {
+    margin-top: 20px;
+  }
+  
+  .message-box {
+    margin-top: 20px;
+    padding: 15px;
+    color: #f4f4f4;
+    background-color: #333; /* Background color for success message */
+    border-left: 5px solid #f57328; /* Accent color */
+    border-radius: 5px;
+    font-size: 1rem;
+    display: none; /* Hidden by default, shown with fadeIn */
+  }
+
+  
