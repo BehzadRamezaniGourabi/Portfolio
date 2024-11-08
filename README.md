@@ -39,10 +39,11 @@ To run this portfolio website locally, follow these steps:
 
 ### Steps to Set Up
 
-| ![Photo 1](portfolioScreenshoot.png) | ![Photo 2](Screenshot2.png) | ![Photo 3](Screenshot3.png) |
-|--------------------------------------|--------------------------------------|--------------------------------------|
-| ![Photo 4](Screenshot4.png) | ![Photo 5](Screenshot5.png) | ![Photo 6](Screenshot6.png) |
-
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/portfolio-website.git
+
+
+| ![Photo 1](portfolioScreenshoot.png) | ![Photo 2](Screenshot2.png) | ![Photo 3](Screenshot3.png) |
+|--------------------------------------|--------------------------------------|--------------------------------------|
+| ![Photo 4](Screenshot4.png) | ![Photo 5](Screenshot5.png) | ![Photo 6](Screenshot6.png) |
