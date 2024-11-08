@@ -1,5 +1,4 @@
 # Behzad Ramezani Portfolio Website
-![Behzad's Photo](portfolioScreenshoot.png)
 
 This is the portfolio website of Behzad Ramezani, a Computer Science graduate and Web Developer. The website showcases personal qualifications, skills, projects, experience, and contact information. It also includes a contact form that allows visitors to send messages, which are stored in a MySQL database.
 
@@ -39,6 +38,10 @@ To run this portfolio website locally, follow these steps:
 2. Install a code editor (e.g., Visual Studio Code).
 
 ### Steps to Set Up
+
+| ![Photo 1](portfolioScreenshoot.png) | ![Photo 2](path_or_url_to_image2.jpg) | ![Photo 3](path_or_url_to_image3.jpg) |
+|--------------------------------------|--------------------------------------|--------------------------------------|
+| ![Photo 4](path_or_url_to_image4.jpg) | ![Photo 5](path_or_url_to_image5.jpg) | ![Photo 6](path_or_url_to_image6.jpg) |
 
 1. **Clone the repository**:
    ```bash
