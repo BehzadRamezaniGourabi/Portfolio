@@ -39,9 +39,9 @@ To run this portfolio website locally, follow these steps:
 
 ### Steps to Set Up
 
-| ![Photo 1](portfolioScreenshoot.png) | ![Photo 2](path_or_url_to_image2.jpg) | ![Photo 3](path_or_url_to_image3.jpg) |
+| ![Photo 1](portfolioScreenshoot.png) | ![Photo 2](Screenshoot2.png) | ![Photo 3](Screenshoot3.png) |
 |--------------------------------------|--------------------------------------|--------------------------------------|
-| ![Photo 4](path_or_url_to_image4.jpg) | ![Photo 5](path_or_url_to_image5.jpg) | ![Photo 6](path_or_url_to_image6.jpg) |
+| ![Photo 4](Screenshoot4.png) | ![Photo 5](Screenshoot5.png) | ![Photo 6](path_or_url_to_image6.jpg) |
 
 1. **Clone the repository**:
    ```bash
