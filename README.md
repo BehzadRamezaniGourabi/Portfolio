@@ -41,7 +41,7 @@ To run this portfolio website locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/BehzadRamezaniGourabi/portfolio-website.git
 
 
 | ![Photo 1](portfolioScreenshoot.png) | ![Photo 2](Screenshot2.png) | ![Photo 3](Screenshot3.png) |
